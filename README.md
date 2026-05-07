@@ -88,7 +88,7 @@ pip install pandas numpy scikit-learn jupyter
 
 1. **Load the notebook**:
    ```bash
-   [jupyter notebook prompt_II.ipynb](https://github.com/Sarojabvl72/ML_Cars/blob/main/prompt_II.ipynb)
+   https://github.com/Sarojabvl72/ML_Cars/blob/main/prompt_II.ipynb
    ```
 
 2. **Ensure data is available**: Place the `vehicles.csv` dataset in the `data/` directory
