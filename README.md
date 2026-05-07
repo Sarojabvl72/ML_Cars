@@ -147,11 +147,11 @@ The findings are organized as a business report detailing:
 
 ## License
 
-[Add your license information here]
+MIT License
 
 ## Author
 
-[Your name/organization]
+Saroja Bandaru
 
 ## References
 
